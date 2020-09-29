@@ -23,7 +23,7 @@
             <h5> <b-icon class="h2" icon="bicycle" variant="primary">
               </b-icon> {{stationsStatus[index].num_bikes_available}} 
               <!-- Sjekker om det er 1 eller fler sykler -->
-              <div v-if="stationsStatus[index].num_bikes_available == 1" style="display: inline-block;" >sykel</div>
+              <div v-if="stationsStatus[index].num_bikes_available == 1" style="display: inline-block;" >sykkel</div>
               <div v-else style="display: inline-block;">sykler</div>
             </h5>
             <h5> <b-icon class="h2" icon="person-circle" variant="primary"></b-icon> {{stationsStatus[index].num_docks_available}} ledige plasser</h5>
