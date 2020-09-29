@@ -1,4 +1,4 @@
-# ardoq
+# ardoqoppgave av Christoffer Johansen
 
 ## Project setup
 ```
