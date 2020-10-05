@@ -56,7 +56,7 @@ export default {
         isStationsStatusFetched: false,
 
         // Map
-        accessToken: "pk.eyJ1IjoiY2hyaXMyZyIsImEiOiJja2ZvMW1xeWUwMDJjMnFvYWNpbWFxemYwIn0.SCMUe2ePEQ_to8CeMS9RGw", // your access token. Needed if you using Mapbox maps
+        accessToken: UNIQE_TOKEN, // your access token. Needed if you using Mapbox maps
         mapStyle: "mapbox://styles/mapbox/streets-v11", // your map style
         center: [10.6788129, 59.9226729],
         zoom: 12,
