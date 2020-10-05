@@ -1,5 +1,3 @@
-# Ardoqoppgave av Christoffer Johansen
-
 ## Project setup
 Install node first.
 
