@@ -12,7 +12,7 @@ Download the project.
 Open terminal and cd into the the downloaded folder.
 Example:
 ```
-cd C:\Users\user\Documents\ardoqtask
+cd C:\Users\user\Documents\OsloBysykkelApi
 ```
 
 ### Install project
